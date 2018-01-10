@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8575b3458d99613116d75a08ebad6e26a03db4c8">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_288f3877470207037eeebd59e1e973fe20bf0478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="767552e9cdbaac688f671a54e4e23ef033c90cca">
+        <dex dex="/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_91161a3e80695667fc95576fe2cfd936797b1115/classes.dex" />
+    </item>
+
+</items>

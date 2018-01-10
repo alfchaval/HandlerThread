@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "177,115,55",
+                        "endColumns": "56,61,59",
+                        "endOffsets": "229,172,110"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,112,174",
+                        "endColumns": "56,61,59",
+                        "endOffsets": "107,169,229"
+                    }
+                }
+            ]
+        }
+    ]
+}

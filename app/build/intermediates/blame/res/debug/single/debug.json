@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/home/lourdes/Dropbox/Clases/DEINT_LIBRO/UT5 - Interfaz Avanzada/ejemplos apuntes/HandlerThread/app/src/main/res/drawable-ldpi/icon.png"
+    }
+]
